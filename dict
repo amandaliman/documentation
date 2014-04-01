@@ -1,0 +1,219 @@
+
+SCC                       PENN
+AdjectiveNon_predicate_AA ADJ
+
+AdjectiveNon_predicate_AAB ADJ
+
+AdjectiveNon_predicate_AABB ADJ
+
+AdjectiveNon_predicate_ABAB ADJ
+
+AdjectiveNon_predicate_ABB ADJ
+
+Adverbgeneral ADV
+
+AdverbAA ADV
+
+Adverbnegative NEG+ADV
+
+Conjunctioncoordinating CONJ
+
+Conjunctionsubordinating if
+
+Classifier CL
+
+Expressiondirection NP-LOC
+
+Expressionformulaic X
+
+Expressiongenitive_zhi_N $N
+
+Expressiongenitive_zhi_suo_V $N
+
+Expressionlocation NP-LOC
+
+Expressionnominal NP
+
+Expressionorder NP?
+
+Expressiontime NP-TMP
+
+Functional_morphemeadverbial LY
+
+Functional_morphemeaspect_durative DOP
+
+Functional_morphemeaspect_experiential HAN+DON
+
+Functional_morphemeaspect_perfective DON
+
+Functional_morphemecausative CAU
+
+Functional_morphemecomplement DE
+
+Functional_morphemeemphatic SUO
+
+Functional_morphemegeneral PAR
+
+Functional_morphemegenitive $
+
+Functional_morphemeobjective CAU
+
+Functional_morphemepassive BEI
+
+Functional_morphemeplural S
+
+Functional_morphemerelative $
+
+Idiom IDM
+
+Interjection INTJ
+
+Localizer N
+
+Nouncommon NP
+
+NounAA NP
+
+NounAAB NP
+
+NounAABB NP
+
+NounABAB NP
+
+NounABAC NP
+
+NounABB NP
+
+NounABCB NP
+
+Nounhonorific NP
+
+Nounproper NPR
+
+Nounproper_dynasty_name NP-TMP
+
+Nounproper_person_name NPR
+
+Nounproper_place_name NPR
+
+Nounproper_title NPR
+
+Nounproper_year_name NPR
+
+Numeralcardinal NUM
+
+Numeralindefinite NUM
+
+Numeralordinal ADJ
+
+OnomatopoeiaAA ON
+
+OnomatopoeiaAAA ON
+
+OnomatopoeiaAABB ON
+
+OnomatopoeiaABBC ON
+
+Onomatopoeiageneral ON
+
+Pronoundemonstrative D
+
+Pronounhonorific NPR
+
+Pronounpersonal PRO
+
+Pronounpossessive PRO$
+
+Pronounreciprocal PRO+N
+
+Pronounreflexive PRO+N
+
+Preposition P
+
+Particletag SFP
+
+Punctuationgeneral_separating_mark ,
+
+Punctuationleft_bracket '
+
+Punctuationright_bracket '
+
+Punctuationsecondary_separating_mark ,
+
+Question_wordgeneral WADV
+
+Question_wordtag SFP
+
+Unidentified X
+
+Verbgeneral VB
+
+VerbAA VB
+
+VerbAAB VB
+
+VerbAABB VB
+
+VerbABAB VB
+
+VerbABAC VB
+
+VerbABB VB
+
+VerbABCB VB
+
+Verbbei_V BEI+VB
+
+Verbbu_V NEG+VB
+
+Verbcopular_shi BE
+
+Verbcopular_shi _negative NEG+BE
+
+Verbexistential_you HAVE
+
+Verbexistential_you_negative NEG+HAVE
+
+Verbjian_V BEI+VB
+
+Verbmodal_auxiliary MOD
+
+Verbmodal_auxiliary_negative NEG+MOD
+
+Verbreciprocal_xiang_V ADV+VB
+
+Verbreflexive_zi_V ADV+VB
+
+Verbstative ADJ
+
+Verbstative_comparative ADJR
+
+Verbstative_superlative ADJS
+
+Verbsuo_V SUO+VB
+
+VerbV_bu_V V+NEG+V
+
+VerbV_hua V+V
+
+VerbV_lai V+V
+
+VerbV_N V+N
+
+VerbV_potential_bu_RVC* V+NEG+ADJ
+
+VerbV_potential_de_RVC V+DE+ADJ
+
+VerbV_qu V+V
+
+VerbV_RVC V+V
+
+VerbV_V VB
+
+VerbV_yi_V V+YI+V
+
+VerbV_yu V+P
+
+VerbV_zhi V+N
+
+Verbyi_V YI+V
